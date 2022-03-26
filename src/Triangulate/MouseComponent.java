@@ -10,7 +10,7 @@ public class MouseComponent extends JPanel implements MouseListener {
     boolean line = false;
     boolean triangle = false;
     boolean erase = false;
-    
+
     public MouseComponent(){
         super();
         pointX = 0;
